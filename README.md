@@ -5,7 +5,7 @@ The dataset contains clickstream data for two landing pages - old_page & new_pag
 
 The length of the A/B experiment is 24 days.
 
-Total 294478 occurs out of which were by unique visitors.
+A total of 294478 sessions occured. 290584 unique visitors were involved.
 
 The number of sessions for old_page & new_page is almost equal - a prerequisite for unbiased A/B Test
 
